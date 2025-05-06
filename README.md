@@ -10,7 +10,7 @@
 
    <div>
  <hr>
- <a href="https://github.com/willianyjorge12">
+ <a href="https://github.com/willianyjorge12/willianyJorge12/edit/main/README.md">
  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=willianyjorge12&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>  
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willianyjorge12&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
 <img height="250em" width="530em" src = "https://github-readme-stats.vercel.app/api/wakatime?username=willianyjorge12&layout=compact&hide_title=true&hide_border=true&count_private=true&theme=vision-friendly-dark">
